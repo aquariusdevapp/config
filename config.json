@@ -1,0 +1,22 @@
+{
+  "ads": {
+    "ad_platform": "admob",
+    "ad_time": 20
+  },
+  "album": [
+    {
+      "name": "onepiece-2",
+      "thumb": "https://i.pinimg.com/originals/f5/64/80/f56480a570f335db06c08c844ed872f2.png",
+      "created": "2020-08-27",
+      "lock": 1,
+      "pin": 1
+    },
+    {
+      "name": "kimetsu-1",
+      "thumb": "https://i.pinimg.com/originals/fe/7c/d6/fe7cd63e1ee44a5e237d44d5cf1c0563.png",
+      "created": "2020-08-27",
+      "lock": 0,
+      "pin": 0
+    }
+  ]
+}
