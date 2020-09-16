@@ -1,0 +1,15 @@
+{
+  "ads": {
+    "ad_platform": "admob",
+    "ad_time": 20
+  },
+  "album": [
+    {
+      "name": "kimetsu_no_yaiba_2",
+      "thumb": "https://i.pinimg.com/originals/6b/be/6f/6bbe6f633e076b17fef5ce95b0c599ba.png",
+      "created": "2020-09-12",
+      "lock": 1,
+      "pin": 1
+    }
+  ]
+}
