@@ -45,6 +45,13 @@
       "created": "2020-10-11",
       "lock": 1,
       "pin": 1
+    },
+    {
+      "name": "hunter_x_hunter",
+      "thumb": "https://i.pinimg.com/originals/22/4c/90/224c90fca6c10689e548b775b8ab91ce.png",
+      "created": "2020-10-18",
+      "lock": 0,
+      "pin": 1
     }
   ]
 }
