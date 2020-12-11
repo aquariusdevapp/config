@@ -1,0 +1,14 @@
+{
+  "ads": {
+    "ad_platform": "admob",
+    "ad_time": 20
+  },
+  "category": [
+    {
+    "category_id": 3000,
+    "priority": 15,
+    "name": "Darling in the Franxx",
+    "thumbnail": "https://images.alphacoders.com/934/thumb-1920-934406.jpg"
+    }
+  ]
+}
