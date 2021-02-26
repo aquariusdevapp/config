@@ -3,6 +3,22 @@
     "ad_platform": "admob",
     "ad_time": 20
   },
+  "more_app": [
+    {
+      "title": "Anime Shimeji",
+      "text": "Make many of your favorite animated characters that play on top of your mobile screen (over other apps).",
+      "iconUrl": "https://i.pinimg.com/564x/a2/41/80/a24180ce30a72a4f835fb8c80e083ad0.jpg",
+      "mainImageUrl": "https://i.pinimg.com/564x/2b/21/18/2b21184ce5d67d1fbe90580f5abb92d4.jpg",
+      "actionUrl": "com.aquarius.shimeji"
+    },
+    {
+      "title": "Anime Wallpaper HD 4K",
+      "text": "The best wallpaper app for anime/manga fans",
+      "iconUrl": "https://i.pinimg.com/564x/7a/c5/16/7ac5160b8ca14eeb4b19dffa21429f3d.jpg",
+      "mainImageUrl": "https://i.pinimg.com/564x/f8/9b/2f/f89b2ff5ab3aa921e9256ee15e376669.jpg",
+      "actionUrl": "com.aquarius.anime.wallpaper"
+    }
+  ],
   "album": [
     {
       "name": "kimetsu_no_yaiba_2",
