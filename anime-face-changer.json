@@ -76,11 +76,18 @@
       "lock": 1,
       "pin": 1
     },
-    {
+ {
       "name": "jujutsu_kaisen_1",
       "thumb": "https://i.pinimg.com/originals/5b/64/a1/5b64a1bb5d8d8fcf5ea94df9b1f95255.png",
       "created": "2021-04-10",
       "lock": 1,
+      "pin": 1
+    },
+ {
+      "name": "tokyo_revengers_1",
+      "thumb": "https://i.pinimg.com/originals/33/d6/97/33d69733181ac48c4ce3ac0a7b5ba31c.png",
+      "created": "2021-05-29",
+      "lock": 0,
       "pin": 1
     }
   ]
